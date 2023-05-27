@@ -1,0 +1,4 @@
+1. make home to see all current rates
+2.  buy and sell page that redirect to that website.
+3. about page
+4. make buy sell page
